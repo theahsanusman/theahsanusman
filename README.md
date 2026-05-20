@@ -3,7 +3,7 @@
 # Ahsan Usman
 
 ### AI Full-Stack SaaS Engineer
-#### I build, fix, and scale SaaS systems across product, backend, AI, payments, tracking, and operations.
+#### I build, fix, and scale SaaS systems across product, backend, AI, blockchain, payments, tracking, and operations.
 
 I help teams turn complex product requirements into systems that launch, monetize, track, automate, and stay maintainable in production.
 
@@ -18,6 +18,7 @@ I help teams turn complex product requirements into systems that launch, monetiz
 <img src="https://img.shields.io/badge/SaaS%20Engineering-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Workflows-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Payments%20%26%20Subscriptions-635BFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Blockchain%20%26%20Smart%20Contracts-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tracking%20%26%20Analytics-0F766E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Product%20Operations-2563EB?style=for-the-badge" />
 
@@ -89,6 +90,41 @@ I help teams turn complex product requirements into systems that launch, monetiz
   <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=22C55E" />
   <img src="https://img.shields.io/badge/Cloud%20Functions-334155?style=for-the-badge" />
+</p>
+
+<h3>Blockchain and Smart Contracts</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-111827?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-1E293B?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVM%20Chains-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solana-111827?style=for-the-badge&logo=solana&logoColor=14F195" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ERC--20-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ERC--721-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ERC--1155-635BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NFT%20Creation-F43F5E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Token%20Creation-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardhat-FACC15?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Remix-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Truffle-3B2F2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100%2B%20Wallets-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PancakeSwap-D1884F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raydium-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupiter-FBA43A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Arweave-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magic%20Eden-E42575?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CoinMarketCap-17181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CoinGecko-8DC63F?style=for-the-badge" />
 </p>
 
 <h3>Payments, Automation, and Communication</h3>
@@ -184,6 +220,163 @@ I help teams see what is happening across ads, funnels, subscriptions, users, su
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Blockchain and Token Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-111827?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-1E293B?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVM%20Chains-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana-111827?style=flat-square&logo=solana&logoColor=14F195" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/ERC--20-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/ERC--721-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/ERC--1155-635BFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/NFT%20Creation-F43F5E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana%20Tokens-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardhat-FACC15?style=flat-square" />
+  <img src="https://img.shields.io/badge/Remix-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Truffle-3B2F2F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana%20NFTs-111827?style=flat-square&logo=solana&logoColor=14F195" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Arweave-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tokenomics-334155?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Web3 Product Work
+
+<p>
+  <img src="https://img.shields.io/badge/Token%20Creation-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/NFT%20Minting-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contract%20Logic-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blockchain%20Integrations-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web3%20Workflows-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Presales-635BFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Staking-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vesting-F43F5E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exchange%20Listings-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=flat-square" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Uniswap-FF007A?style=flat-square&logo=uniswap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PancakeSwap-D1884F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Raydium-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupiter-FBA43A?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenSea-2081E2?style=flat-square&logo=opensea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magic%20Eden-E42575?style=flat-square" />
+  <img src="https://img.shields.io/badge/CoinMarketCap-17181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/CoinGecko-8DC63F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Alchemy-363FF9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infura-F6851B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Moralis-00A7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/QuickNode-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/The%20Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gnosis%20Safe-12FF80?style=flat-square" />
+  <img src="https://img.shields.io/badge/Squads-111827?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Web3 Experience
+
+</div>
+
+I have worked across crypto and Web3 projects since **2021**, including EVM and Solana-based products, NFT collections, token launches, presales, staking, vesting, wallet integrations, DEX liquidity, exchange-side launch support, and listing submissions.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Blockchain Systems
+
+- ERC-20 token creation
+- ERC-721 NFT collections
+- ERC-1155 multi-token contracts
+- Tax tokens and advanced token logic
+- Tokenomics, taxes, burns, locks, anti-bot logic, and vesting schedules
+- NFT minting flows and metadata
+- Solana NFT collections and SPL-style token work
+- EVM-compatible chain deployments
+- Solana token work
+- IPFS, Pinata, NFT.Storage, and Arweave metadata flows
+
+</td>
+<td width="50%" valign="top">
+
+### Launch and Product Work
+
+- Seed, private, and public sale phases
+- Presales and token sale websites
+- Staking and vesting flows
+- DEX liquidity pools across Uniswap, PancakeSwap, Raydium, Jupiter, and swap ecosystems
+- CEX / exchange-side launch support
+- CoinMarketCap and CoinGecko submission support
+- Wallet integrations across MetaMask, WalletConnect, Phantom, and other wallets
+- Web3 frontend integration with ethers.js and web3.js
+- Marketplace work across OpenSea, Magic Eden, and custom NFT marketplace flows
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Infrastructure and Indexing
+
+- Alchemy, Infura, Moralis, QuickNode, and The Graph
+- Contract event listeners and backend indexing flows
+- Wallet connection layers across EVM and Solana
+- Token-gated access and crypto payment-style flows
+
+</td>
+<td width="50%" valign="top">
+
+### Governance and Treasury Tooling
+
+- Multisig and treasury flows
+- Gnosis Safe-style operational setups
+- Squads-style Solana treasury workflows
+- DAO / governance-aware product flows
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### NWFit Web3 + Fitness App
+
+Supervised NWFit from **2022 to early 2026**, including Web3 launch support and later fitness subscription operations. In 2023, NWFit launched an ERC-721 NFT collection on Polygon with **4 NFT tiers** tied to mobile app access and walk-to-earn / exercise-to-earn mechanics.
+
+<a href="https://apps.apple.com/us/app/nwfit-fitness-weight-loss/id6475285888">NWFit iOS App</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Larger Project Oversight
+
+- NWFit: 2022 to early 2026
+- PDC: 2023 to 2025
+- Team lead / technical lead work across planning, product direction, backend/API coordination, token/NFT launch support, and operational execution
+- Fractional CTO-style support for maintenance and product continuity
+
+</td>
+</tr>
 </table>
 
 ---
@@ -194,11 +387,11 @@ I help teams see what is happening across ads, funnels, subscriptions, users, su
 
 </div>
 
-### NWFit: AI Fitness Subscription App
+### NWFit: AI Fitness, Subscription, and Web3 Product
 
 **Role:** Technical Product & SaaS Operations Lead
 
-NWFit is a subscription-based AI fitness app across mobile and web. I worked across product operations, AI recommendation flows, subscriptions, payments, tracking setup, support workflows, production issues, and developer coordination.
+NWFit is an AI fitness product with mobile app, subscription, and Web3 components. I worked across product operations, AI recommendation flows, subscriptions, NFT/token launch support, payments, tracking setup, support workflows, production issues, and developer coordination.
 
 <table width="100%">
 <tr>
@@ -208,6 +401,10 @@ NWFit is a subscription-based AI fitness app across mobile and web. I worked acr
 
 - **140k+** users supported
 - **3.2%** churn rate maintained
+- ERC-721 NFT collection on Polygon
+- 4 NFT tiers tied to app access
+- Token sale phases across seed, private, and public sale
+- Exchange-side launch support
 - High retention and engagement focus
 - Live production app maintained
 - Reduced developer burn with AI-assisted workflows
@@ -219,6 +416,8 @@ NWFit is a subscription-based AI fitness app across mobile and web. I worked acr
 
 - AI workout recommendation engine
 - Subscriptions and payment flows
+- NFT access and earning mechanics
+- Walk-to-earn and exercise-to-earn app flows
 - Stripe, RevenueCat, and Superwall
 - Meta, Google, and Bing tracking
 - GA4 and Google Tag Manager
@@ -320,6 +519,71 @@ NWFit is a subscription-based AI fitness app across mobile and web. I worked acr
   <img src="https://img.shields.io/badge/AI%20Outbound%20Caller%20Workflows-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Twilio%20Call%20Systems-F43F5E?style=flat-square&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/Appointment%20Logic-2563EB?style=flat-square" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Blockchain and Token Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-111827?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-1E293B?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVM%20Chains-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana-111827?style=flat-square&logo=solana&logoColor=14F195" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/ERC--20-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/ERC--721-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/ERC--1155-635BFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/NFT%20Creation-F43F5E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana%20Tokens-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardhat-FACC15?style=flat-square" />
+  <img src="https://img.shields.io/badge/Remix-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Truffle-3B2F2F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana%20NFTs-111827?style=flat-square&logo=solana&logoColor=14F195" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Arweave-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tokenomics-334155?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Web3 Product Work
+
+<p>
+  <img src="https://img.shields.io/badge/Token%20Creation-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/NFT%20Minting-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contract%20Logic-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blockchain%20Integrations-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web3%20Workflows-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Presales-635BFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Staking-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vesting-F43F5E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exchange%20Listings-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=flat-square" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Uniswap-FF007A?style=flat-square&logo=uniswap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PancakeSwap-D1884F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Raydium-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupiter-FBA43A?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenSea-2081E2?style=flat-square&logo=opensea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magic%20Eden-E42575?style=flat-square" />
+  <img src="https://img.shields.io/badge/CoinMarketCap-17181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/CoinGecko-8DC63F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Alchemy-363FF9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infura-F6851B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Moralis-00A7FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/QuickNode-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/The%20Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gnosis%20Safe-12FF80?style=flat-square" />
+  <img src="https://img.shields.io/badge/Squads-111827?style=flat-square" />
 </p>
 
 </td>
